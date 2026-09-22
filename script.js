@@ -1,6 +1,6 @@
 // Replace this with the KMFC business WhatsApp number in international format.
 // Example for a South African number: 27821234567 (no +, spaces or leading 0).
-const WHATSAPP_NUMBER = "27000000000";
+const WHATSAPP_NUMBER = "27746889682";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
