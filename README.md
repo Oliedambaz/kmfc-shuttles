@@ -13,6 +13,6 @@ A responsive static website for KMFC Shuttles — Cape Town Airport Transfers & 
 
 ## Before publishing
 
-Edit `script.js` and replace `27000000000` with the business WhatsApp number in international format.
+Edit `script.js` and replace `27746889682` with the business WhatsApp number in international format.
 
 Also replace the placeholder phone number and email address in `index.html`.
